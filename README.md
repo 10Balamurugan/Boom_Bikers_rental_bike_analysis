@@ -1,6 +1,18 @@
 🚲 BoomBikes Rental Demand Prediction
 
+---
 
+📌 Overview
+
+BoomBikes is a US-based bike-sharing service that suffered significant revenue loss during the COVID-19 pandemic. This project builds a Multiple Linear Regression model to predict the total number of bike rentals (cnt) on any given day — based on weather, season, and calendar features.
+
+The goal is to help BoomBikes' management:
+
+- 📈 Understand demand drivers — which variables most impact rentals
+- 🗓️ Plan inventory and staffing — prepare for high-demand days
+- 🌍 Strategy post-lockdown — accelerate business recovery
+
+- - -
 
 !Python
 
@@ -22,20 +34,6 @@ A Machine Learning regression model to predict daily bike rental demand for Boom
  · ⚙️ Installation
  · 📊 Results
 
-
-
-
----
-
-📌 Overview
-
-BoomBikes is a US-based bike-sharing service that suffered significant revenue loss during the COVID-19 pandemic. This project builds a Multiple Linear Regression model to predict the total number of bike rentals (cnt) on any given day — based on weather, season, and calendar features.
-
-The goal is to help BoomBikes' management:
-
-- 📈 Understand demand drivers — which variables most impact rentals
-- 🗓️ Plan inventory and staffing — prepare for high-demand days
-- 🌍 Strategy post-lockdown — accelerate business recovery
 
 ---
 

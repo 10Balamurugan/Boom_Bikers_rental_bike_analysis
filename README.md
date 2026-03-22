@@ -1,4 +1,5 @@
 # 🚲 BoomBikes Rental Demand Prediction
+BoomBikes is a US-based bike-sharing service that suffered significant revenue loss during the COVID-19 pandemic. This project builds a Multiple Linear Regression model to predict the total number of bike rentals (cnt) on any given day — based on weather, season, and calendar features
 
 <div align="center">
 
